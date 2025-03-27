@@ -1,7 +1,0 @@
-[build]
-  publish = "public"
-
-[[headers]]
-  for = "/taskpane.js"
-  [headers.values]
-    Content-Type = "application/javascript"
