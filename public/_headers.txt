@@ -1,2 +1,0 @@
-/taskpane.js
-  Content-Type: application/javascript
