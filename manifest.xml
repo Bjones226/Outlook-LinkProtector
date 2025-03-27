@@ -75,7 +75,7 @@
         <bt:Image id="icon80" DefaultValue="https://appsforoffice.microsoft.com/lib/1/assets/icon-128.png" />
       </bt:Images>
       <bt:Urls>
-        <bt:Url id="taskpaneUrl" DefaultValue="https://bjones226.github.io/Outlook-LinkProtector/taskpane.html" />
+        <bt:Url id="taskpaneUrl" DefaultValue="https://transcendent-pie-509244.netlify.app/taskpane.html" />
       </bt:Urls>
       <bt:ShortStrings>
         <bt:String id="groupLabel" DefaultValue="Link Protector" />
